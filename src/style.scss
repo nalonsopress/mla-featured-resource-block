@@ -1,0 +1,20 @@
+.wp-block-mla-featured-resource,
+.mla-featured-resource {
+	padding: 16px;
+	border: 1px solid #ddd;
+	border-radius: 6px;
+	margin: 16px 0;
+}
+
+.mla-featured-resource__title {
+	margin-top: 0;
+	margin-bottom: 12px;
+}
+
+.mla-featured-resource__link {
+	display: inline-block;
+	text-decoration: none;
+	padding: 10px 16px;
+	border: 1px solid currentColor;
+	border-radius: 4px;
+}
