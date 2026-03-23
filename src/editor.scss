@@ -1,0 +1,23 @@
+.wp-block-mla-featured-resource {
+	border: 1px solid #ddd;
+	padding: 16px;
+	border-radius: 6px;
+
+	h3 {
+		margin-top: 0;
+	}
+
+	.mla-featured-resource__url-preview {
+		font-size: 13px;
+		opacity: 0.7;
+		margin-bottom: 12px;
+	}
+
+	.mla-featured-resource__button-preview {
+		display: inline-block;
+		padding: 8px 14px;
+		border: 1px solid #222;
+		border-radius: 4px;
+		font-size: 14px;
+	}
+}
